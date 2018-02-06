@@ -1,4 +1,4 @@
 # Projekti
 Monialaprojekti
 
-Aiheena Docker ykstyispilvenä
+Aiheena Docker yksityispilvenä
